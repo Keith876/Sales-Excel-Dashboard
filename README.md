@@ -1,2 +1,9 @@
 ## Sales Excel Dashboard
-### A Microsoft Excel Dashboard that simplifies the sales of a company.
+### Project Overview
+A Microsoft Excel Dashboard that summarises data from a company's sales data.
+### Tools
+-	Microsoft Excel-Data cleaning and Visualization.
+-	Python-Data analysis
+
+
+
